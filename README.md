@@ -1,4 +1,4 @@
-# TabalhoFinal_SGHSS_Backend
+# SistemaGestaoHospitalar_Backend
 💻 Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) desenvolvido em Python + Flask. Projeto acadêmico que implementa rotas REST para gerenciamento de pacientes, profissionais, consultas, e administração hospitalar.
 
 Este projeto faz parte do Trabalho Multidisciplinar do curso de Análise e Desenvolvimento de Sistemas.
